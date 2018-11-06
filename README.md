@@ -47,6 +47,6 @@ Gå til http://serverlesspenguins.no/ og trykk battle.
 Kopier inn url og fjern "/{query}" fra slutten av url.
 Trykk "Battle!".
 <h1>Gratulerer!</h1>
-Du har nå forhåpentligvis en fungerende funksjon! (Hvis ikke, rop "Hjelp!")
+Du har nå forhåpentligvis en fungerende funksjon! (Hvis ikke, rop "Hjelp!", eller bruk denne superenkle guiden:https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function)
 Du kan nå clone ditt eget repo, og starte kodingen!
 Azure vil automatisk hente den nye koden når du pusher til master.
