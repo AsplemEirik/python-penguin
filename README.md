@@ -1,7 +1,7 @@
 <h1>Student Royale</h1>
-Hvordan komme i gang med Javascript.
+Hvordan komme i gang med Python.
 <h2>Steg 1:</h2>
-Fork dette repoet: https://github.com/AsplemEirik/javascript-penguin
+Fork dette repoet: https://github.com/AsplemEirik/python-penguin
 <h2>Steg 2:</h2>
 Lag azure konto: https://azure.microsoft.com/nb-no/free/.
 Trykk <em>Start gratis</em>.
@@ -40,7 +40,7 @@ Gå igjen til bake til platform features og trykk på Deployment options og dere
   <li><em>Trykk Ok</em></li>
 </ul>
 Etter en liten stund vil Azure automatisk hente fra Github.
-I listen til venste kan du navigere til funksjonen "javascript-my-first-penguin".
+I listen til venste kan du navigere til funksjonen "MyFirstPenguin".
 Her vises koden.
 Trykk "</> Get function URL", og kopier url.
 Gå til http://serverlesspenguins.no/ og trykk battle.
